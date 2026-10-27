@@ -1,0 +1,8 @@
+# The net concern's header-only contract (static + dynamic renderings).
+format_version = 1
+name   = "net"
+kind   = "interface"
+version        = "1.0.0"
+implements_api = "1.0.0"
+requires = []
+renderings = ["static", "dynamic"]
